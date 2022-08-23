@@ -10,7 +10,7 @@ git+https://github.com/boundlessgeo/sphinx@bex#egg=Sphinx
 git+https://github.com/venicegeo/nearsight@master#egg=nearsight
 django-jsonfield==1.0.1
 django-jsonfield-compat==0.4.4
-numpy==1.13.3
+numpy==1.22.0
 django-geonode-client==1.0.9
 dj-database-url==0.4.2
 celery[redis]==3.1.18
